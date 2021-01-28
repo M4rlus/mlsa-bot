@@ -1,0 +1,24 @@
+{
+  "name": "discordjs-user-info",
+  "version": "1.0.0",
+  "description": "Grab all info about a Discord user using discord.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Flizzyclone/discordjs-user-info.git"
+  },
+  "author": "Flizzyclone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Flizzyclone/discordjs-user-info/issues"
+  },
+  "homepage": "https://github.com/Flizzyclone/discordjs-user-info#readme",
+  "dependencies": {
+    "discord.js": "^12.4.1",
+    "mysql": "^2.18.1",
+    "prompts": "^2.4.0"
+  }
+}
